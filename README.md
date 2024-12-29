@@ -1,6 +1,6 @@
 # Course System
 
-# this is a java course system that has a File System, that contains:
+# this is a java course system that has a File System, and contains these modules:
 
 1- an admin.
 2- Instructors.
